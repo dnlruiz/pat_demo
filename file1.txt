@@ -1,1 +1,3 @@
-Daniel Ruiz
+John Doe
+123 Apple Street
+Portland, OR
